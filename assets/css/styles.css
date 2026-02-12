@@ -20,7 +20,7 @@ body {
 	height: 400px;
 }
 
-.backgroundImage: hover {
+.backgroundImage:hover {
 	background-image: url(../img/clock.png);
 	cursor: crosshair; 
 }
